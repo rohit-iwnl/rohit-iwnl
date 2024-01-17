@@ -70,8 +70,3 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <h3 align='center'>Got an idea and wanna collaborate? Awesome. Lets connect 🤝</h3>
-
-<br/><br/>
-
-<br/>
-
