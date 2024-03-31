@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 </h1>
 
 <h2 align='center'>I solve problems using code and design < /></h2>
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-
 
 <div align="center">
 
- 👨‍🎓 1st year MS in Computer Science student at **Arizona State University**
+ 👨‍🎓 MS in CS @ **Arizona State University**
  
  🔭 I’m currently working on **building my own blog article website**
  
